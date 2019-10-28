@@ -37,8 +37,6 @@ Until halfway through Season 8, a Korean team was always the highest rated team 
 | 23 | EDward Gaming | 1120.1916 | 1179.9334 |
 | 33 | Team SoloMid | 1082.8518 | 1262.7547 |
 
-Prior to the events of the 2018 World Cup, the model predicted that in a game between France and Croatia, France had a 67.00% chance to win.
-
 ## Project Overview
 
 ### Changelog
