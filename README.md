@@ -32,7 +32,7 @@ Finals
 
 ### Current Highest Elo Ratings (11/03/19)
 
-| Rank | Country | Current Elo | Max Elo\* |
+| Rank | Team | Current Elo | Max Elo\* |
 | :---: | :--- | :---: | :---: |
 | 1 | G2 Esports | 1361.3466 | 1361.3466 |
 | 2 | Funplus Phoenix | 1332.5167 | 1332.5167 |
