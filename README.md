@@ -11,7 +11,7 @@ Analysis of data from the videogame/eSport League of Legends
 
 Shown are results from 2014 World Championships to end of quarterfinals of 2019 World Championships. There may be some lapses due to lack of data; some of the teams are merged by name (notably, Gen.G refers to all Samsung organizations; ROX and KOO are equivalent).
 
-Until halfway through Season 8, a Korean team was always the highest rated team (except for a tiny blip of TSM during Season 7): one of SKT, ROX, or Gen.G. In particular, SKT was the strongest team for almost three straight seasons. In Season 8, FW overtook Gen.G before being overtaken by IG, the eventual Season 8 World Champions. In Season 9, GRF, SKT, and IG all briefly held the top spot, until G2 held it for the latter half of the season. Now, nearing the end of the Season 9 World Championships (matches up to 10/27/19), G2, SKT, and FPX are all near the top.
+Until halfway through Season 8, a Korean team was always the highest rated team (except for a tiny blip of TSM during Season 7): one of SKT, ROX, or Gen.G. In particular, SKT was the strongest team for almost three straight seasons. In Season 8, FW overtook Gen.G before being overtaken by IG, the eventual Season 8 World Champions. In Season 9, GRF, SKT, and IG all briefly held the top spot, until G2 held it for the latter half of the season. Now, nearing the end of the Season 9 World Championships (matches up to 11/03/19), G2, SKT, and FPX are all near the top.
 
 ### 2019 World Championships Predictions
 
