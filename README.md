@@ -13,11 +13,28 @@ Shown are results from 2014 World Championships to end of quarterfinals of 2019 
 
 Until halfway through Season 8, a Korean team was always the highest rated team (except for a tiny blip of TSM during Season 7): one of SKT, ROX, or Gen.G. In particular, SKT was the strongest team for almost three straight seasons. In Season 8, FW overtook Gen.G before being overtaken by IG, the eventual Season 8 World Champions. In Season 9, GRF, SKT, and IG all briefly held the top spot, until G2 held it for the latter half of the season. Now, nearing the end of the Season 9 World Championships (matches up to 10/27/19), G2, SKT, and FPX are all near the top.
 
+### 2019 World Championships Predictions
+
+These were the predictions given by the model for each of the playoffs matches:
+
+Quarterfinals
+* Griffin has 69.07% probability of beating Invictus Gaming
+* G2 Esports has 56.68% probability of beating Damwon Gaming
+* SK Telecom T1 has 74.42% probability of beating Splyce
+* Funplus Phoenix has 50.54% probability of beating Fnatic
+
+Semifinals
+* Funplus Phoenix has a 64.36% probability of beating Invictus Gaming
+* G2 Esports has a 50.01% probability of beating SK Telecom T1
+
+Finals
+* G2 Esports has a 54.14% probability of beating Funplus Phoenix
+
 ### Current Highest Elo Ratings (10/27/19)
 
 | Rank | Country | Current Elo | Max Elo |
 | :---: | :--- | :---: | :---: |
-| 1 | G2 Esports | 1333.7326 | 1333.732 |
+| 1 | G2 Esports | 1333.7326 | 1333.7326 |
 | 2 | SK Telecom T1 | 1333.6348 | 1372.4373 |
 | 3 | Funplus Phoenix | 1319.9833 | 1319.9833 |
 | 4 | Fnatic | 1266.7824 | 1293.9204 |

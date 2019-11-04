@@ -8,7 +8,7 @@ FILES_ORACLE = [
 	'2018_worlds',
 	'2019_spring',
 	'2019_summer',
-	'2019_worlds_1027'
+	'2019_worlds_1103' # pre-qf: 1020, pre-sf: 1027, pre-f: 1103
 ]
 
 for i in range(len(FILES_ORACLE)):

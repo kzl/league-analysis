@@ -126,6 +126,29 @@ TT, top_elos = ratings.get_top_teams(1000)
 for i in range(len(TT)):
 	print('%30s - current elo: %.4f, best elo: %.4f' % (TT[i], top_elos[i], top_scores[TT[i]]))
 
+# Print out some predictions for Worlds 2019
+teams = ['Griffin', 'Invictus Gaming', 'G2 Esports', 'Damwon Gaming', 'SK Telecom T1', 'Splyce', 'Funplus Phoenix', 'Fnatic']
+
+q1 = ratings.get_prediction('Griffin', 'Invictus Gaming')
+q2 = ratings.get_prediction('G2 Esports', 'Damwon Gaming')
+q3 = ratings.get_prediction('SK Telecom T1', 'Splyce')
+q4 = ratings.get_prediction('Funplus Phoenix', 'Fnatic')
+
+s1 = ratings.get_prediction('Invictus Gaming', 'Funplus Phoenix')
+s2 = ratings.get_prediction('SK Telecom T1', 'G2 Esports')
+
+f1 = ratings.get_prediction('Funplus Phoenix', 'G2 Esports')
+
+print('q1 Griffin win pct: %.4f' % q1)
+print('q2 G2 Esports win pct: %.4f' % q2)
+print('q3 SK Telecom T1 win pct: %.4f' % q3)
+print('q4 Funplus Phoenix win pct: %.4f' % q4)
+
+print('s1 Invictus Gaming win pct: %.4f' % s1)
+print('s2 SK Telecom T1 win pct: %.4f' % s2)
+
+print('f1 Funplus Phoenix win pct: %.4f' % f1)
+
 # Plot ratings over time
 plt.figure(figsize=(16, 12))
 
