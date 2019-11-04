@@ -124,7 +124,7 @@ top_teams = sorted(top_teams, key=top_scores.get, reverse=True)
 # Print out top teams
 TT, top_elos = ratings.get_top_teams(1000)
 for i in range(len(TT)):
-	print('%30s - current elo: %.4f, best elo: %.4f' % (TT[i], top_elos[i], top_scores[TT[i]]))
+	print('%02d | %30s - current elo: %.4f, best elo: %.4f' % (i, TT[i], top_elos[i], top_scores[TT[i]]))
 
 # Print out some predictions for Worlds 2019
 teams = ['Griffin', 'Invictus Gaming', 'G2 Esports', 'Damwon Gaming', 'SK Telecom T1', 'Splyce', 'Funplus Phoenix', 'Fnatic']

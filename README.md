@@ -6,8 +6,8 @@ Analysis of data from the videogame/eSport League of Legends
 
 ### Elo Ratings Over Time
 
-![elo ratings](https://github.com/kzl/league-analysis/raw/master/pictures/elo_102719_a.png "Elo ratings for top teams")
-![elo ratings](https://github.com/kzl/league-analysis/raw/master/pictures/elo_102719_b.png "Elo ratings for top teams")
+![elo ratings](https://github.com/kzl/league-analysis/raw/master/pictures/elo_110319_a.png "Elo ratings for top teams")
+![elo ratings](https://github.com/kzl/league-analysis/raw/master/pictures/elo_110319_b.png "Elo ratings for top teams")
 
 Shown are results from 2014 World Championships to end of quarterfinals of 2019 World Championships. There may be some lapses due to lack of data; some of the teams are merged by name (notably, Gen.G refers to all Samsung organizations; ROX and KOO are equivalent).
 
@@ -30,17 +30,17 @@ Semifinals
 Finals
 * G2 Esports has a 54.14% probability of beating Funplus Phoenix
 
-### Current Highest Elo Ratings (10/27/19)
+### Current Highest Elo Ratings (11/03/19)
 
-| Rank | Country | Current Elo | Max Elo |
+| Rank | Country | Current Elo | Max Elo\* |
 | :---: | :--- | :---: | :---: |
-| 1 | G2 Esports | 1333.7326 | 1333.7326 |
-| 2 | SK Telecom T1 | 1333.6348 | 1372.4373 |
-| 3 | Funplus Phoenix | 1319.9833 | 1319.9833 |
+| 1 | G2 Esports | 1361.3466 | 1361.3466 |
+| 2 | Funplus Phoenix | 1332.5167 | 1332.5167 |
+| 3 | SK Telecom T1 | 1306.0208 | 1372.4373 |
 | 4 | Fnatic | 1266.7824 | 1293.9204 |
 | 5 | Griffin | 1264.8608 | 1313.3327 |
 | 6 | Damwon Gaming | 1245.7890 | 1245.7890 |
-| 7 | Invictus Gaming | 1217.2790 | 1390.6369 |
+| 7 | Invictus Gaming | 1204.7456 | 1390.6369 |
 | 8 | Team Liquid | 1202.6217 | 1241.0897 |
 | 9 | Royal Never Give Up | 1188.3210 | 1330.2810 |
 | 10 | J Team | 1186.9854 | 1203.7513 |
@@ -53,6 +53,8 @@ Finals
 | 20 | Sandbox Gaming | 1135.6378 | 1207.7971 |
 | 23 | EDward Gaming | 1120.1916 | 1179.9334 |
 | 33 | Team SoloMid | 1082.8518 | 1262.7547 |
+
+\* at the end of a patch
 
 ## Project Overview
 
